@@ -1,4 +1,4 @@
-﻿using CódigoFonte.Models;
+﻿using CódigoFonte.Models.ViewModel;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -19,7 +19,7 @@ namespace CódigoFonte.Controllers
         {
             ViewData["Message"] = "Your application description page.";
             ViewData["email"] = "contato.trindadegabriel@gmail.com";
-            ViewData["tipoDado"] =  "double is double, of couse!"
+            ViewData["tipoDado"] = "double is double, of couse!";
             return View();
         }
 

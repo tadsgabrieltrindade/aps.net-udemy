@@ -30,3 +30,4 @@ C:\Curso\AspnetMVC\SalesWebMvc\CódigoFonte\CódigoFonte\obj\Debug\netcoreapp2.1
 C:\Curso\AspnetMVC\SalesWebMvc\CódigoFonte\CódigoFonte\obj\Debug\netcoreapp2.1\CódigoFonte.dll
 C:\Curso\AspnetMVC\SalesWebMvc\CódigoFonte\CódigoFonte\obj\Debug\netcoreapp2.1\CódigoFonte.pdb
 C:\Curso\AspnetMVC\SalesWebMvc\CódigoFonte\CódigoFonte\obj\Debug\netcoreapp2.1\CódigoFonte.csproj.CopyComplete
+C:\Curso\AspnetMVC\SalesWebMvc\CódigoFonte\CódigoFonte\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs

@@ -1,6 +1,6 @@
 using System;
 
-namespace CódigoFonte.Models
+namespace CódigoFonte.Models.ViewModel
 {
     public class ErrorViewModel
     {
